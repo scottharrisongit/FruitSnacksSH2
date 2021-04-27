@@ -50,3 +50,5 @@ or `m`.
 ---
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scottharrisongit/FruitSnacksSH2/master?urlpath=rstudio)
+
